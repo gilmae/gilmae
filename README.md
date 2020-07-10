@@ -1,16 +1,14 @@
-### Hi there 👋
+### aloha, I'm David 👋
 
-<!--
-**gilmae/gilmae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### [Twitter](https://twitter.com/gilame) &bull; [Blog](https://blog.avocadia.net) &bull; [LinkedIn](https://www.linkedin.com/in/edgardavid/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌏 I live on Dharawal land in Australia
+- 🔭 I’m currently working on a [headless indieweb crm](https://github.com/gilmae/maat)
+- 🌱 I’m currently learning Rust and German
+- 📫 How to reach me: [email](mailto:me@davidedgar.me)
+- 😄 Pronouns: me/him
+- 🎧 Listening to: Scandanavian synth-pop
+- 📚 Reading: [Sci-fi and Fantasy novels](https://www.goodreads.com/user/show/1506188-david)
+<!--- ⚡ Fun fact: -->
+

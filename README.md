@@ -1,4 +1,4 @@
-### aloha, I'm David 👋
+### aloha, I'm David 🥖🌹
 
 #### [Twitter](https://twitter.com/gilame) &bull; [Blog](https://blog.avocadia.net) &bull; [LinkedIn](https://www.linkedin.com/in/edgardavid/)
 

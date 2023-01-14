@@ -1,6 +1,6 @@
 ### aloha, I'm David 🥖🌹
 
-#### [Twitter](https://twitter.com/gilame) &bull; [Blog](https://blog.avocadia.net) &bull; [LinkedIn](https://www.linkedin.com/in/edgardavid/)
+#### [Mastodon](https://aus.social/@gilmae) &bull; [Blog](https://blog.avocadia.net) &bull; [LinkedIn](https://www.linkedin.com/in/edgardavid/)
 
 
 - 🌏 I live on Dharawal land in Australia

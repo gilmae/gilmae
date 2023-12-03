@@ -4,7 +4,7 @@
 
 
 - 🌏 I live on Dharawal land in Australia
-- 🔭 I’m currently working on a [headless indieweb crm](https://github.com/gilmae/maat) and implementing a [toy](https://github.com/gilmae/klite) [database]
+- 🔭 I’m currently working on a [headless indieweb crm](https://github.com/gilmae/maat) and implementing a [toy database](https://github.com/gilmae/klite)
 - 🌱 I’m currently learning Go and German
 - 📫 How to reach me: [email](mailto:me@davidedgar.me)
 - 😄 Pronouns: he/him
